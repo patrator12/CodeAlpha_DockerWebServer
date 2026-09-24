@@ -71,6 +71,3 @@ docker run --name codealpha-task4-web -p 8080:80 -d codealpha-task4-web:1.0
 - **Lifecycle:** demonstrates build, run, stop, start, restart, logs, and cleanup commands.
 - **Health and troubleshooting:** configures a container health check and documents common fixes.
 
-## Submission checklist
-
-The internship PDF asks for complete source code in a GitHub repository named `CodeAlpha_ProjectName`, a LinkedIn video explanation with the repository link, and submission through the form provided in the internship WhatsApp group. Replace `ProjectName` with a short project name (for example, `DockerWebServer`) when you create the repository. Do not publish the same LinkedIn post until you have checked any current program-specific requirements.
